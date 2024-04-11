@@ -1,4 +1,5 @@
 path,spoken_language,signed_language,start,end,words,glosses,priority
+sgg/qsl_none.pose,de,sgg,0,0,qsl_none,qsl_none,0
 sgg/A1.pose,de,sgg,0,0,знакомство,знакомство,0
 sgg/B1.pose,de,sgg,0,0,Человек.Родство.Семья,Человек.Родство.Семья,0
 sgg/C1.pose,de,sgg,0,0,дом и домашние вещи,дом и домашние вещи,0
